@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.projectpm_oasis_Si21cdx_seaeats"
+    namespace = "com.uti.apkseaeats"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.projectpm_oasis_Si21cdx_seaeats"
+        applicationId = "com.uti.apkseaeats"
         minSdk = 23
         targetSdk = 34
         versionCode = 1
